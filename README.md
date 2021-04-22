@@ -6,7 +6,7 @@ In this dissertation, I aim to forecast high utilizers of emergency care and inp
 
 ## Table of Contents
 1. Manuscript
-2. Appendix A. Data Integrity Guidelines
+2. [Appendix A. Data Integrity Guidelines](https://github.com/kevinbuchanjr/dissertation/tree/master/Appendix%20A.%20Data%20Integrity%20Guidelines)
 3. Appendix B. Data Dictionaries
 4. Appendix C. Exclusion Criteria
 5. Appendix D. Pseudocode
