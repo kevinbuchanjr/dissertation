@@ -9,7 +9,7 @@ In this dissertation, I aim to forecast high utilizers of emergency care and inp
 2. [Appendix A. Data Integrity Guidelines](https://github.com/kevinbuchanjr/dissertation/tree/master/Appendix%20A.%20Data%20Integrity%20Guidelines)
 3. [Appendix B. Data Dictionaries](https://github.com/kevinbuchanjr/dissertation/tree/master/Appendix%20B.%20Data%20Dictionaries)
 4. [Appendix C. Exclusion Criteria](https://github.com/kevinbuchanjr/dissertation/tree/master/Appendix%20C.%20Exclusion%20Criteria)
-6. Appendix D. Hyperparameters
+6. [Appendix D. Hyperparameters](https://github.com/kevinbuchanjr/dissertation/tree/master/Appendix%20D.%20Hyperparameters)
 7. Appendix E. Performance Tables
 8. Appendix F. Feature Importances
 9. Appendix G. Shapley Values
